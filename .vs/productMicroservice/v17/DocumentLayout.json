@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yassir.JERRARI\\source\\repos\\productMicroservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AEC0B19-CCBE-4659-AAEB-D4EC6982E63D}|productMicroservice\\productMicroservice.csproj|c:\\users\\yassir.jerrari\\source\\repos\\productmicroservice\\productmicroservice\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AEC0B19-CCBE-4659-AAEB-D4EC6982E63D}|productMicroservice\\productMicroservice.csproj|solutionrelative:productmicroservice\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AEC0B19-CCBE-4659-AAEB-D4EC6982E63D}|productMicroservice\\productMicroservice.csproj|c:\\users\\yassir.jerrari\\source\\repos\\productmicroservice\\productmicroservice\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AEC0B19-CCBE-4659-AAEB-D4EC6982E63D}|productMicroservice\\productMicroservice.csproj|solutionrelative:productmicroservice\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AEC0B19-CCBE-4659-AAEB-D4EC6982E63D}|productMicroservice\\productMicroservice.csproj|c:\\users\\yassir.jerrari\\source\\repos\\productmicroservice\\productmicroservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AEC0B19-CCBE-4659-AAEB-D4EC6982E63D}|productMicroservice\\productMicroservice.csproj|solutionrelative:productmicroservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AEC0B19-CCBE-4659-AAEB-D4EC6982E63D}|productMicroservice\\productMicroservice.csproj|c:\\users\\yassir.jerrari\\source\\repos\\productmicroservice\\productmicroservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9AEC0B19-CCBE-4659-AAEB-D4EC6982E63D}|productMicroservice\\productMicroservice.csproj|solutionrelative:productmicroservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AEC0B19-CCBE-4659-AAEB-D4EC6982E63D}|productMicroservice\\productMicroservice.csproj|c:\\users\\yassir.jerrari\\source\\repos\\productmicroservice\\productmicroservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9AEC0B19-CCBE-4659-AAEB-D4EC6982E63D}|productMicroservice\\productMicroservice.csproj|solutionrelative:productmicroservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 196,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yassir.JERRARI\\source\\repos\\productMicroservice\\productMicroservice\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "productMicroservice\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Yassir.JERRARI\\source\\repos\\productMicroservice\\productMicroservice\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "productMicroservice\\Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:12:59.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Yassir.JERRARI\\source\\repos\\productMicroservice\\productMicroservice\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "productMicroservice\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Yassir.JERRARI\\source\\repos\\productMicroservice\\productMicroservice\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "productMicroservice\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwC0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:25:28.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yassir.JERRARI\\source\\repos\\productMicroservice\\productMicroservice\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "productMicroservice\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Yassir.JERRARI\\source\\repos\\productMicroservice\\productMicroservice\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "productMicroservice\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAASwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:19:30.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Yassir.JERRARI\\source\\repos\\productMicroservice\\productMicroservice\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "productMicroservice\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Yassir.JERRARI\\source\\repos\\productMicroservice\\productMicroservice\\appsettings.Development.json",
+              "RelativeToolTip": "productMicroservice\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-28T07:45:25.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Yassir.JERRARI\\source\\repos\\productMicroservice\\productMicroservice\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "productMicroservice\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Yassir.JERRARI\\source\\repos\\productMicroservice\\productMicroservice\\Properties\\launchSettings.json",
+              "RelativeToolTip": "productMicroservice\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-28T07:45:20.03Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
